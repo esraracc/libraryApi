@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TLXIfcLoYPnmT5Oe8z9N/mLZnYvMuMJPWUEI1xCfbYnt5J0GZFInd3U19kf0ENRlg3+n3OvGwOyD+Fz6HyYCUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\onlineLibraryApplicationApi\\corePackages\\Core.Application\\Core.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
